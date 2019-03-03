@@ -10,8 +10,15 @@
       
     * **解释导致software crisis 本质原因、表现，述说克服软件危机的方法**
     
-      * 本质原因：计算机的发展导致软件危机
+      * 本质原因：计算机的发展，计算机能力的迅速提高和无法解决的问题的复杂性导致软件危机。随着软件复杂性的增加，优越现有方法的不在，出现了许多软件问题。
       * 表现：
+         - 项目运行超过预算
+         - 项目运行的加班时间
+         - 软件非常低效
+         - 软件质量很差
+         - 软件常常不能满足需求
+         - 项目不可管理，代码难以维护
+         - 软件从未交付
       * 方法：构建生产软件的方法与知识体系，需要有系统化、与时俱进的软件工程方法，才能规避 software crisis。
       
     * **软件生命周期**
@@ -38,35 +45,11 @@
       
     * **简单解释 CMMI 的五个级别。例如：Level 1 - Initial：无序，自发生产模式。**
 
-      1. Level 1 - Initial：无序，自发生产模式。
-      2. Level 2 - Managed
-          * CM - Configuration Management
-          * MA - Measurement and Analysis
-          * PPQA - Process and Quality Assurance
-          * REQM - Requirements Management
-          * SAM - Supplier Agreement Management
-          * SD - Service Delivery
-          * WMC - Work Monitoring and Control
-          * WP - Work Planning
-      3. Level 3 - Defined
-          * CAM - Capacity and Availability Management
-          * DAR - Decision Analysis and Resolution
-          * IRP - Incident Resolution and Prevention
-          * IWM - Integrated Work Managements
-          * OPD - Organizational Process Definition
-          * OPF - Organizational Process Focus...
-          * OT - Organizational Training
-          * RSKM - Risk Management
-          * SCON - Service Continuity
-          * SSD - Service System Development
-          * SST - Service System Transition
-          * STSM - Strategic Service Management
-      4. Level 4 - Quantitatively Managed
-          * OPP - Organizational Process Performance
-          * QWM - Quantitative Work Management
-      5. Level 5 - Optimizing
-          * CAR - Causal Analysis and Resolution.
-          * OPM - Organizational Performance Management.
+      1. Level 1 - Initial：软件过程是无序的，有时甚至是混乱的，对过程几乎没有定义，成功取决于个人努力。管理是反应式的。
+      2. Level 2 - Managed：建立了基本的项目管理过程来跟踪费用、进度和功能特性。制定了必要的过程纪律，能重复早先类似应用项目取得的成功经验。
+      3. Level 3 - Defined：已将软件管理和工程两方面的过程文档化、标准化，并综合成该组织的标准软件过程。所有项目均使用经批准、剪裁的标准软件过程来开发和维护软件，软件产品的生产在整个软件过程是可见的。
+      4. Level 4 - Quantitatively Managed：分析对软件过程和产品质量的详细度量数据，对软件过程和产品都有定量的理解与控制。管理有一个作出结论的客观依据，管理能够在定量的范围内预测性能。
+      5. Level 5 - Optimizing：过程的量化反馈和先进的新思想、新技术促使过程持续不断改进。
 
     * **用自己语言简述 SWEBok 或 CMMI （约200字）**
 
