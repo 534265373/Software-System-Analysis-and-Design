@@ -25,4 +25,6 @@
 
   - **请在 参考书2 或 教材 中选择一个类图（给出参考书页码图号）**
 
-  	![UML_test](/Pictures/UML_test.png)
+    采自教程《UML和模式应用》第9页，图1-6。
+
+    ![UML_test](/Pictures/UML_test.png)
