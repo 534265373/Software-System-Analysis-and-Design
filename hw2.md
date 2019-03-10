@@ -19,10 +19,10 @@
   - **每个人的任务是1-2项**
   - **至少包含一个团队活动任务**
 
-  ![week2_kanban_1](.\Pictures\week2_kanban_1.png)
+  ![week2_kanban_1](/Pictures/week2_kanban_1.png)
 
 - **UML绘图工具练习（提交贴图，必须使用 UMLet）**
 
   - **请在 参考书2 或 教材 中选择一个类图（给出参考书页码图号）**
 
-  	![UML_test](.\Pictures\UML_test.png)
+  	![UML_test](/Pictures/UML_test.png)
